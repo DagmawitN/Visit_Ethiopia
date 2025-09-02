@@ -22,6 +22,9 @@ export const metadata: Metadata = {
   description:
     "Explore Ethiopia's ancient wonders, vibrant culture, and breathtaking landscapes. Book your Ethiopian adventure today.",
   generator: "next js",
+    icons: {
+    icon: "/favicon.ico",
+  },
 }
 
 export default function RootLayout({
