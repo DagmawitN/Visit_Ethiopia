@@ -19,7 +19,6 @@ import { useRouter } from "next/navigation";
 const heroImages = [
   "/images/tour.jpg",
   "/images/happy-day-ethiopian-tours.jpg",
-  "/images/images (4).jpeg",
   "/images/IMG_2974.png",
   "/images/Tour-Company-In-Ethiopia-Tour-and-Travel-in-Ethiopiaf.jpg",
   "/images/tmket.jpg",
