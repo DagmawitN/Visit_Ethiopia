@@ -18,7 +18,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "Visit Ethiopia - Discover the Land of Origins",
+  title: "Visitopia - Moments Made With Locals",
   description:
     "Explore Ethiopia's ancient wonders, vibrant culture, and breathtaking landscapes. Book your Ethiopian adventure today.",
   generator: "next js",
